@@ -1,0 +1,17 @@
+Modell\Composant.class
+View\Interfacetitre.class
+View\InterfaceNouveauChapitre.class
+Modell\DAOTitre.class
+Modell\Chapitre.class
+Modell\connexion.class
+Modell\Image.class
+Modell\Titre.class
+View\Interfacechapitre.class
+View\InterfaceConsulterChapitre.class
+Controller\controlleur.class
+Modell\DAO.class
+View\Interfacecomposant.class
+Modell\Texte.class
+Modell\caracteristique.class
+Main\Test.class
+Modell\DAOChapitre.class
